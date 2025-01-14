@@ -8,4 +8,4 @@
 define("NOMBRE_HOST", "localhost");	// Nombre del host
 define("BASE_DE_DATOS", "consolas");	// Nombre de la base de modelos
 define("USUARIO", "root");			// Nombre del usuario
-define("CONTRASENA", "root");			// Constraseña
+define("CONTRASENA", "root");			// Constraseña 
